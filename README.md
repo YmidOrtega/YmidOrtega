@@ -114,8 +114,3 @@
 </p>
 
 
-
------
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
-
-Last Edited on: 20/01/2022
