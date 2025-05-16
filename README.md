@@ -1,6 +1,3 @@
-<a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
- </a>
 
 **About Me!**
 
@@ -105,12 +102,14 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ymidortega&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
+<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme](https://github-readme-stats.vercel.app/api/top-langs/?username=ymidortega&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)">
 </p>
 
 
