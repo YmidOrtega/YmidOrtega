@@ -23,7 +23,7 @@
   </kbd>
   <kbd>
     <kbd>Database</kbd><br><br>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+    <img width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
   </kbd>
