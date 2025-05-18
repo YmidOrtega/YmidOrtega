@@ -23,7 +23,7 @@
   </kbd>
   <kbd>
     <kbd>Database</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Tools & IDEs</kbd><br><br>
