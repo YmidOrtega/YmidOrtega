@@ -31,7 +31,7 @@
     <kbd>Tools & IDEs</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img width="30px" src="https://img.icons8.com/color/48/trello.png" title="Trello" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
   </kbd>
 </p>
 
