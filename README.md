@@ -1,12 +1,14 @@
 ### 🧑‍💻 About Me – *YmiDev*
 
-- 👋 Hi, I'm **Ymid Ortega** – but online I go by **YmiDev**
-- 📚 I'm currently learning advanced **Java** and working to master it
-- 🌱 I build projects using **Java**, **Spring**, and **MySQL**
-- 🧠 Passionate about **back-end development** and clean code
-- 🛠️ Tools I use: **VS Code**, **IntelliJ IDEA**, **Trello**
-- 💼 Actively seeking my **first job** in tech – ready to grow and contribute
-- 📫 Contact me: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
+- 👋 Hi, I'm **Ymid Ortega** - but online I call myself **YmiDev**.
+- 📚 I'm currently a Java language lover.
+- 🌱 I build projects using **Java**, **Spring** and **MySQL**.
+- 🧠 Passionate about **back-end development** and clean code.
+- 🛠️ Tools I use: **VS Code**, **IntelliJ IDEA**, **Trello**.
+- 💼 Actively looking for my **first job** in tech - ready to grow and contribute.
+- 📫 Get in touch with me: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
+
+Translated with DeepL.com (free version)
 
 ---
 
