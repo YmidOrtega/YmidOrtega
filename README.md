@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm **Ymid Ortega** - but online I call myself **YmiDev**.
 - 📚 I'm currently a Java language lover.
-- 🌱 I build projects using **Java**, **Spring** and **MySQL**.
+- 🌱 I build projects using **Java**, **Spring**, **PostgreSQL**  and **MySQL**.
 - 🧠 Passionate about **back-end development** and clean code.
 - 🛠️ Tools I use: **VS Code**, **IntelliJ IDEA**, **Trello**.
 - 💼 Actively looking for my **first job** in tech - ready to grow and contribute.
