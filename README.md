@@ -28,6 +28,7 @@ Translated with DeepL.com (free version)
     <img width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"/>
   </kbd>
   <kbd>
     <kbd>Tools & IDEs</kbd><br><br>
