@@ -1,12 +1,12 @@
 <!-- Profile Banner (opcional: sube una imagen a tu repo y reemplaza la ruta) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0f172a,100:22c55e&text=YmidDev&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0f172a,110:22c55e&text=YmidDev&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Back-end+Developer+enamorado+de+Java+y+Spring;Clean+Code%2C+Arquitectura+limpia+y+APIs+sólidas;Buscando+mi+primera+oportunidad+para+crecer+y+aportar" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Back-end+Developer+enamorado+de+Java+y+Spring;Clean+Code%2C+Arquitectura+limpia+y+APIs+sólidas" />
   </a>
 </p>
 
