@@ -46,26 +46,26 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🧾 API Rest de Facturación</h4>
-      <p>Java · Spring Boot · JWT · PostgreSQL · Docker</p>
-      <a href="https://github.com/YmidOrtega/tu-repo-1"><b>Ver repositorio</b></a>
+      <h4> Medical clinic management system built with microservices architecture</h4>
+      <p>Java · Spring Boot · JWT · PostgreSQL · Docker · Spring Data · Flyway · MySQL · Redis</p>
+      <a href="https://github.com/YmidOrtega/Clinica"><b>Ver repositorio</b></a>
     </td>
     <td width="50%">
-      <h4>🏥 Gestión de Atención en Salud</h4>
-      <p>Java · Spring Data · Flyway · MySQL · Arquitectura limpia</p>
-      <a href="https://github.com/YmidOrtega/tu-repo-2"><b>Ver repositorio</b></a>
+      <h4>A Java-based simulator for the Cboe Titanium U.S. Options Binary Order Entry protocol</h4>
+      <p>Java · Arquitectura limpia</p>
+      <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim"><b>Ver repositorio</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>📦 Microservicio de Inventario</h4>
-      <p>Spring Cloud · Docker Compose · Circuit Breaker · Redis</p>
-      <a href="https://github.com/YmidOrtega/tu-repo-3"><b>Ver repositorio</b></a>
+      <h4>API developed in Java with Spring Boot/h4>
+      <p>Spring Security · OAuth2 · Tests con JUnit</p>
+      <a href="https://github.com/YmidOrtega/CRUD-Test"><b>Ver repositorio</b></a>
     </td>
     <td width="50%">
-      <h4>🔐 Auth y Control de Acceso</h4>
-      <p>Spring Security · OAuth2 · Tests con JUnit</p>
-      <a href="https://github.com/YmidOrtega/tu-repo-4"><b>Ver repositorio</b></a>
+      <h4>A repository where knowledge burns with every LeetCode solution/h4>
+      <p>Java · Arquitectura limpia · Soluciones sencillas</p>
+      <a href="https://github.com/YmidOrtega/LeetVault-Fire"><b>Ver repositorio</b></a>
     </td>
   </tr>
 </table>
