@@ -1,6 +1,6 @@
 <!-- Profile Banner (opcional: sube una imagen a tu repo y reemplaza la ruta) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:0f172a,110:22c55e&text=YmidDev&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:b6312a,110:#3a0f0e&text=YmidDev&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 <!-- Typing Intro -->
@@ -13,7 +13,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="mailto:yortegap7920@gmail.com"><img src="https://img.shields.io/badge/Email-yortegap7920%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ymid-ortega" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=10b981" alt="views"/>
 </p>
 
