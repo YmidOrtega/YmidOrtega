@@ -95,4 +95,4 @@
 ### 🤝 ¿Hablamos?
 - 💼 **Abierto a oportunidades** (remoto / híbrido).
 - 📨 **Contacto**: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/ymid-ortega](https://www.linkedin.com/in/ymid-ortega)
+- 🔗 **LinkedIn**: [linkedin.com/in/ymid-ortega](https://www.linkedin.com/in/ymidortega/)
