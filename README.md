@@ -1,6 +1,6 @@
 <!-- Profile Banner (opcional: sube una imagen a tu repo y reemplaza la ruta) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:b6312a,110:3a0f0e&text=YmidDev&fontColor=2aafb6&fontAlign=80&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:b6312a,110:3a0f0e&text=YmidDev&fontColor=2aafb6&fontAlign=50&fontAlignY=80" />
 </p>
 
 <!-- Typing Intro -->
