@@ -42,33 +42,123 @@
 
 ---
 
-### 🧪 Highlights técnicos
+### 🚀 Highlights técnicos
+
+<div align="center">
+  
+#### 💡 *Proyectos destacados que demuestran experiencia real en arquitecturas modernas*
+
+</div>
+
 <table>
   <tr>
-    <td width="50%">
-      <h4> Medical clinic management system built with microservices architecture</h4>
-      <p>Java · Spring Boot · JWT · PostgreSQL · Docker · Spring Data · Flyway · MySQL · Redis</p>
-      <a href="https://github.com/YmidOrtega/Clinica"><b>Ver repositorio</b></a>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Sistema de Gestión Clínica</h3>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/Clinica">
+          <img src="https://img.shields.io/badge/⭐_FEATURED-PROJECT-gold?style=for-the-badge" alt="Featured"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <strong>🎯 Sistema completo de gestión médica con arquitectura de microservicios</strong>
+      </p>
+      <p align="justify">
+        Plataforma empresarial escalable que incluye <b>múltiples microservicios comunicados</b>, autenticación JWT, gestión de citas, pacientes y doctores. Implementa <b>patrones de diseño avanzados</b>, migraciones con Flyway, caché con Redis y frontend en Astro.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=probot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/Clinica"><b>📂 Ver repositorio »</b></a>
+      </div>
     </td>
-    <td width="50%">
-      <h4>A Java-based simulator for the Cboe Titanium U.S. Options Binary Order Entry protocol</h4>
-      <p>Java · Arquitectura limpia</p>
-      <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim"><b>Ver repositorio</b></a>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Simulador Titanium BOE</h3>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim">
+          <img src="https://img.shields.io/badge/⚡_ADVANCED-PROJECT-blue?style=for-the-badge" alt="Advanced"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <strong>🎯 Simulador del protocolo binario BOE de Cboe para opciones financieras</strong>
+      </p>
+      <p align="justify">
+        Sistema especializado que emula la <b>comunicación cliente-servidor TCP</b> del protocolo Binary Order Entry de Cboe. Incluye codificación/decodificación de mensajes binarios, gestión de órdenes, y arquitectura hexagonal con <b>separación clara de responsabilidades</b>.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-00ADD8?style=flat-square&logo=buffer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TCP/IP-009639?style=flat-square&logo=serverless&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Binary_Protocol-FF6C37?style=flat-square&logo=hack&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim"><b>📂 Ver repositorio »</b></a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>API developed in Java with Spring Boot/h4>
-      <p>Spring Security · OAuth2 · Tests con JUnit</p>
-      <a href="https://github.com/YmidOrtega/CRUD-Test"><b>Ver repositorio</b></a>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 API REST con Autenticación Robusta</h3>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/CRUD-Test">
+          <img src="https://img.shields.io/badge/🛡️_SECURITY-FOCUSED-green?style=for-the-badge" alt="Security"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <strong>🎯 Sistema de gestión de usuarios con seguridad de nivel empresarial</strong>
+      </p>
+      <p align="justify">
+        API RESTful con <b>autenticación JWT y OAuth2</b>, gestión avanzada de estados de usuario y roles. Preparada para integración con IA, incluye <b>cobertura de tests con JUnit y Mockito</b>, validaciones robustas y documentación con Swagger.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OAuth2-3C873A?style=flat-square&logo=auth0&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/CRUD-Test"><b>📂 Ver repositorio »</b></a>
+      </div>
     </td>
-    <td width="50%">
-      <h4>A repository where knowledge burns with every LeetCode solution/h4>
-      <p>Java · Arquitectura limpia · Soluciones sencillas</p>
-      <a href="https://github.com/YmidOrtega/LeetVault-Fire"><b>Ver repositorio</b></a>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 LeetVault Fire - Algoritmos</h3>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/LeetVault-Fire">
+          <img src="https://img.shields.io/badge/💻_ALGORITHMS-MASTERY-red?style=for-the-badge" alt="Algorithms"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <strong>🎯 Colección de soluciones optimizadas a problemas de LeetCode</strong>
+      </p>
+      <p align="justify">
+        Repositorio donde arde el conocimiento con cada solución. Incluye <b>análisis de complejidad temporal y espacial</b>, múltiples enfoques para cada problema, y código limpio siguiendo mejores prácticas. Demuestra dominio de estructuras de datos y algoritmos fundamentales.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Algorithms-FF6C37?style=flat-square&logo=leetcode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data_Structures-00ADD8?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clean_Code-4B275F?style=flat-square&logo=codacy&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/LeetVault-Fire"><b>📂 Ver repositorio »</b></a>
+      </div>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <br/>
+  <p><i>💼 Cada proyecto refleja atención al detalle, código mantenible y arquitectura escalable</i></p>
+</div>
 
 ---
 
