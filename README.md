@@ -19,8 +19,8 @@
 
 ---
 
-### 🧑‍💻 Sobre mí – *YmiDev*
-- 👋 Soy **Ymid Ortega** (*YmiDev* por Internet).
+### 🧑‍💻 Sobre mí – *Ymid*
+- 👋 Soy **Yamid Ortega** (*Ymid* por Internet).
 - 🧠 Apasionado por el **back-end**, **arquitectura limpia** y **buenas prácticas**.
 - 🌱 Construyo con **Java**, **Spring**, **PostgreSQL**, **MySQL**, **Docker**.
 - 🛠️ Herramientas: **IntelliJ IDEA**, **VS Code**, **Git**, **Trello**.
