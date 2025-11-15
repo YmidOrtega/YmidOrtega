@@ -1,6 +1,6 @@
 <!-- Profile Banner (opcional: sube una imagen a tu repo y reemplaza la ruta) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:b6312a,110:3a0f0e&text=Soy_Ymid&fontColor=2aafb6&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:b6312a,110:3a0f0e&text=Ymid&fontColor=2aafb6&fontAlign=50&fontAlignY=80" />
 </p>
 
 <!-- Typing Intro -->
@@ -96,7 +96,8 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Clean_Architecture-00ADD8?style=flat-square&logo=buffer&logoColor=white"/>
         <img src="https://img.shields.io/badge/TCP/IP-009639?style=flat-square&logo=serverless&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Binary_Protocol-FF6C37?style=flat-square&logo=hack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Binary_Protocol-6d62ee?style=flat-square&logo=hack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RocksDB-FF6C37?style=flat-square&logo=hack&logoColor=white"/>
       </p>
       <div align="center">
         <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim"><b>📂 Ver repositorio »</b></a>
