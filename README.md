@@ -46,7 +46,7 @@
 
 <div align="center">
   
-#### 💡 *Proyectos destacados que demuestran experiencia real en arquitecturas modernas*
+#### 💡 *Proyectos destacados*
 
 </div>
 
