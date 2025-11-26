@@ -19,7 +19,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mí – *Ymid*
+### Sobre mí – *Ymid*
 - 👋 Soy **Yamid Ortega** (*Ymid* por Internet).
 - 🧠 Apasionado por el **back-end**, **arquitectura limpia** y **buenas prácticas**.
 - 🌱 Construyo con **Java**, **Spring**, **PostgreSQL**, **MySQL**, **Docker**.
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -42,11 +42,11 @@
 
 ---
 
-### 🚀 Highlights técnicos
+### Highlights técnicos
 
 <div align="center">
   
-#### 💡 *Proyectos destacados*
+#### *Proyectos destacados*
 
 </div>
 
@@ -158,12 +158,12 @@
 
 <div align="center">
   <br/>
-  <p><i>💼 Cada proyecto refleja atención al detalle, código mantenible y arquitectura escalable</i></p>
+  <p><i> Cada proyecto refleja atención al detalle, código mantenible y arquitectura escalable</i></p>
 </div>
 
 ---
 
-### 📈 Métricas & Actividad
+### Métricas & Actividad
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YmidOrtega&show_icons=true&theme=github_dark&count_private=true" />
   <br/><br/>
@@ -183,7 +183,7 @@
 
 ---
 
-### 🤝 ¿Hablamos?
+###  ¿Hablamos?
 - 💼 **Abierto a oportunidades** (remoto / híbrido).
 - 📨 **Contacto**: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/ymid-ortega](https://www.linkedin.com/in/ymidortega/)
