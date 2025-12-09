@@ -20,12 +20,10 @@
 ---
 
 ### Sobre mí – *Ymid*
-- 👋 Soy **Yamid Ortega** (*Ymid* por Internet).
-- 🧠 Apasionado por el **back-end**, **arquitectura limpia** y **buenas prácticas**.
-- 🌱 Construyo con **Java**, **Spring**, **PostgreSQL**, **MySQL**, **Docker**.
-- 🛠️ Herramientas: **IntelliJ IDEA**, **VS Code**, **Git**, **Trello**.
-- 📫 Escríbeme: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
-
+- 👋 Soy Yamid Ortega (Ymid). 
+- 🧠 Fanático de entender cómo funcionan las cosas "bajo el capó" (Protocolos, JVM, DBs).
+- ⚡ Actualmente profundizando en Microservicios y AWS.
+- ☕ Si no estoy compilando Java, probablemente estoy [leyendo scifi / montando bici / aprendiendo inglés].
 ---
 
 ### Toolbox
