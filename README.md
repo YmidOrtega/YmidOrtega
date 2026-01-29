@@ -6,7 +6,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Back-end+Developer;Clean+Code%2C+Arquitectura+limpia+y+APIs+sólidas" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Back-end+Developer;Clean+Code%2C+Arquitectura+limpia+y+APIs+sólidas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
         <strong>🎯 Sistema completo de gestión médica con arquitectura de microservicios</strong>
       </p>
       <p align="justify">
-        Plataforma empresarial escalable que incluye <b>múltiples microservicios comunicados</b>, autenticación JWT, gestión de citas, pacientes y doctores. Implementa <b>patrones de diseño avanzados</b>, migraciones con Flyway, caché con Redis y frontend en Astro.
+        Plataforma empresarial escalable que incluye <b>múltiples microservicios comunicados</b>, autenticación JWT, gestión de citas, pacientes y doctores. Implementa <b>patrones de diseño avanzados</b>, caché con Redis, y persistencia con PostgreSQL.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -88,7 +88,7 @@
         <strong>🎯 Simulador del protocolo binario BOE de Cboe para opciones financieras</strong>
       </p>
       <p align="justify">
-        Sistema especializado que emula la <b>comunicación cliente-servidor TCP</b> del protocolo Binary Order Entry de Cboe. Incluye codificación/decodificación de mensajes binarios, gestión de órdenes, y arquitectura hexagonal con <b>separación clara de responsabilidades</b>.
+        Sistema especializado que emula la <b>comunicación cliente-servidor TCP</b> del protocolo Binary Order Entry de Cboe. Incluye codificación/decodificación de mensajes binarios, gestión de sesión y flujos de órdenes.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -115,7 +115,7 @@
         <strong>🎯 Sistema de gestión de usuarios con seguridad de nivel empresarial</strong>
       </p>
       <p align="justify">
-        API RESTful con <b>autenticación JWT y OAuth2</b>, gestión avanzada de estados de usuario y roles. Preparada para integración con IA, incluye <b>cobertura de tests con JUnit y Mockito</b>, validaciones robustas y documentación con Swagger.
+        API RESTful con <b>autenticación JWT y OAuth2</b>, gestión avanzada de estados de usuario y roles. Preparada para integración con IA, incluye <b>cobertura de tests con JUnit y Mockito</b>, y documentación interactiva con Swagger.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
@@ -139,7 +139,7 @@
         <strong>🎯 Colección de soluciones optimizadas a problemas de LeetCode</strong>
       </p>
       <p align="justify">
-        Repositorio donde arde el conocimiento con cada solución. Incluye <b>análisis de complejidad temporal y espacial</b>, múltiples enfoques para cada problema, y código limpio siguiendo mejores prácticas. Demuestra dominio de estructuras de datos y algoritmos fundamentales.
+        Repositorio donde arde el conocimiento con cada solución. Incluye <b>análisis de complejidad temporal y espacial</b>, múltiples enfoques para cada problema, y código limpio siguiendo best practices.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -163,13 +163,13 @@
 
 ### Métricas & Actividad
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YmidOrtega&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YmidOrtega&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YmidOrtega&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YmidOrtega&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YmidOrtega&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com/?user=YmidOrtega&theme=tokyonight&hide_border=true&background=0d1117" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YmidOrtega&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YmidOrtega&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 <!-- Snake -->
