@@ -165,8 +165,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YmidOrtega)](https://github.com/YmidOrtega/github-readme-stats)
-
+![YmidOrtega's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YmidOrtega&show_icons=true&theme=radical)
 
 </div>
 
