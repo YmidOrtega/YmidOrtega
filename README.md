@@ -1,186 +1,143 @@
-<!-- Profile Banner (opcional: sube una imagen a tu repo y reemplaza la ruta) -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:b6312a,110:3a0f0e&text=Ymid&fontColor=2aafb6&fontAlign=50&fontAlignY=80" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=8B0000,000000&text=Ymid&fontSize=70&fontAlign=50&fontAlignY=40&desc=Java%20Developer%20%7C%20Microservices%20%7C%20Backend&descSize=20&descAlign=50&descAlignY=65" alt="header" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Back-end+Developer;Clean+Code%2C+Arquitectura+limpia+y+APIs+sólidas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Backend+Developer;Java%2C+Spring+Boot+y+Arquitecturas+Escalables" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges -->
+<!-- Badges y Enlaces -->
 <p align="center">
-  <a href="mailto:yortegap7920@gmail.com"><img src="https://img.shields.io/badge/Email-yortegap7920%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.ymid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ymid.me-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yortegap7920@gmail.com"><img src="https://img.shields.io/badge/Email-yortegap7920%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=10b981" alt="views"/>
 </p>
 
 ---
 
-### Sobre mí – *Ymid*
-- 👋 Soy Yamid Ortega (Ymid). 
-- 🧠 Fanático de entender cómo funcionan las cosas "bajo el capó" (Protocolos, JVM, DBs).
-- ⚡ Actualmente profundizando en Microservicios y AWS.
-- ☕ Si no estoy compilando Java, probablemente estoy [leyendo scifi / montando bici / aprendiendo inglés].
+### Sobre mí
+- 👋 Hola, soy Yamid Ortega (Ymid).
+- 🧠 Me apasiona entender cómo funcionan las tecnologías "bajo el capó": el comportamiento de la JVM, la optimización de bases de datos y el diseño de protocolos de red.
+- ⚡ Enfocado en el desarrollo backend, diseño de microservicios, concurrencia y despliegues eficientes.
+- ☕ Más allá del código, me interesa la ciencia ficción, montar en bicicleta y practicar inglés.
+
 ---
 
 ### Toolbox
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### Highlights técnicos
-
-<div align="center">
-  
-#### *Proyectos destacados*
-
-</div>
+### Proyectos destacados
 
 <table>
   <tr>
+    <!-- PROYECTO 1: TitaniumBOE-Sim -->
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Sistema de Gestión Clínica</h3>
-      <div align="center">
-        <a href="https://github.com/YmidOrtega/Clinica">
-          <img src="https://img.shields.io/badge/⭐_FEATURED-PROJECT-gold?style=for-the-badge" alt="Featured"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>🎯 Sistema completo de gestión médica con arquitectura de microservicios</strong>
-      </p>
+      <h3 align="center">📈 TitaniumBOE-Sim</h3>
       <p align="justify">
-        Plataforma empresarial escalable que incluye <b>múltiples microservicios comunicados</b>, autenticación JWT, gestión de citas, pacientes y doctores. Implementa <b>patrones de diseño avanzados</b>, caché con Redis, y persistencia con PostgreSQL.
+        Simulador del protocolo binario BOE (Binary Order Entry) de Cboe para exchanges de opciones en EE.UU. Procesa mensajes estructurados en bytes a nivel de red con arquitectura de hilos virtuales, motor de emparejamiento FIFO y bots de trading internos.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=probot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-      <div align="center">
-        <a href="https://github.com/YmidOrtega/Clinica"><b>📂 Ver repositorio »</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Simulador Titanium BOE</h3>
-      <div align="center">
-        <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim">
-          <img src="https://img.shields.io/badge/⚡_ADVANCED-PROJECT-blue?style=for-the-badge" alt="Advanced"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>🎯 Simulador del protocolo binario BOE de Cboe para opciones financieras</strong>
-      </p>
-      <p align="justify">
-        Sistema especializado que emula la <b>comunicación cliente-servidor TCP</b> del protocolo Binary Order Entry de Cboe. Incluye codificación/decodificación de mensajes binarios, gestión de sesión y flujos de órdenes.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-00ADD8?style=flat-square&logo=buffer&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TCP/IP-009639?style=flat-square&logo=serverless&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Binary_Protocol-6d62ee?style=flat-square&logo=hack&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RocksDB-FF6C37?style=flat-square&logo=hack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Virtual_Threads-005F87?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Javalin-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RocksDB-FF6C37?style=flat-square"/>
       </p>
       <div align="center">
         <a href="https://github.com/YmidOrtega/TitaniumBOE-Sim"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
+    <!-- PROYECTO 2: Clínica -->
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Clínica — Gestión Hospitalaria</h3>
+      <p align="justify">
+        Ecosistema modular de microservicios independientes para la administración de pacientes, citas médicas, admisiones y facturación. Cuenta con descubrimiento dinámico de servicios, autenticación asimétrica centralizada y asistencia con IA.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+      <div align="center">
+        <a href="https://github.com/YmidOrtega/Clinica"><b>📂 Ver repositorio »</b></a>
+      </div>
+    </td>
   </tr>
   <tr>
+    <!-- PROYECTO 3: CRUD-Test -->
     <td width="50%" valign="top">
-      <h3 align="center">🔐 API REST con Autenticación Robusta</h3>
-      <div align="center">
-        <a href="https://github.com/YmidOrtega/CRUD-Test">
-          <img src="https://img.shields.io/badge/🛡️_SECURITY-FOCUSED-green?style=for-the-badge" alt="Security"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>🎯 Sistema de gestión de usuarios con seguridad de nivel empresarial</strong>
-      </p>
+      <h3 align="center">🔐 CRUD-Test — API de Usuarios</h3>
       <p align="justify">
-        API RESTful con <b>autenticación JWT y OAuth2</b>, gestión avanzada de estados de usuario y roles. Preparada para integración con IA, incluye <b>cobertura de tests con JUnit y Mockito</b>, y documentación interactiva con Swagger.
+        API REST enfocada en un flujo de registro no binario en dos fases (PENDING → ACTIVE). Implementa seguridad stateless mediante tokens JWT diferenciados y de un solo uso para evitar ataques de replicación, respaldado por pruebas de integración.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OAuth2-3C873A?style=flat-square&logo=auth0&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square&logo=flyway&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
       <div align="center">
         <a href="https://github.com/YmidOrtega/CRUD-Test"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
+    <!-- PROYECTO 4: Awaken -->
     <td width="50%" valign="top">
-      <h3 align="center">🔥 LeetVault Fire - Algoritmos</h3>
-      <div align="center">
-        <a href="https://github.com/YmidOrtega/LeetVault-Fire">
-          <img src="https://img.shields.io/badge/💻_ALGORITHMS-MASTERY-red?style=for-the-badge" alt="Algorithms"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        <strong>🎯 Colección de soluciones optimizadas a problemas de LeetCode</strong>
-      </p>
+      <h3 align="center">📱 Awaken — WoL Controller</h3>
       <p align="justify">
-        Repositorio donde arde el conocimiento con cada solución. Incluye <b>análisis de complejidad temporal y espacial</b>, múltiples enfoques para cada problema, y código limpio siguiendo best practices.
+        Aplicación Android nativa desarrollada para centralizar la administración remota de infraestructura local. Permite el encendido por Magic Packet (WOL), apagado mediante comandos ejecutados por SSH y monitorización de estado con pings ICMP en segundo plano.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Algorithms-FF6C37?style=flat-square&logo=leetcode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Data_Structures-00ADD8?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean_Code-4B275F?style=flat-square&logo=codacy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SSH-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <div align="center">
-        <a href="https://github.com/YmidOrtega/LeetVault-Fire"><b>📂 Ver repositorio »</b></a>
+        <a href="https://github.com/YmidOrtega/Awaken-WoL"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <br/>
-  <p><i> Cada proyecto refleja atención al detalle, código mantenible y arquitectura escalable</i></p>
-</div>
 
 ---
 
 ### Métricas & Actividad
 
 <div align="center">
-
-![YmidOrtega's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YmidOrtega&show_icons=true&theme=radical)
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YmidOrtega&show_icons=true&theme=radical" alt="YmidOrtega's GitHub stats" />
 </div>
 
 ---
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake.svg" />
-</picture>
+<!-- Snake Game -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://github.com/YmidOrtega/YmidOrtega/blob/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-###  ¿Hablamos?
-- 💼 **Abierto a oportunidades** (remoto / híbrido).
-- 📨 **Contacto**: [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/ymid-ortega](https://www.linkedin.com/in/ymidortega/)
+### ¿Hablamos?
+- 💼 **Disponibilidad:** Abierto a propuestas de desarrollo backend (Remoto / Híbrido).
+- 🌐 **Sitio Web:** [ymid.me](https://www.ymid.me/)
+- 📨 **Contacto:** [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/ymidortega](https://www.linkedin.com/in/ymidortega/)
