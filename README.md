@@ -10,7 +10,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Backend+Developer;Java%2C+Spring+Boot+y+Arquitecturas+Escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Componentes+que+cooperan.+Sistemas+que+cobran+vida.;Dise%C3%B1o+y+construyo+sistemas+backend+y+APIs+escalables." alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,9 +25,10 @@
 ---
 
 ### Sobre mí
-- 👋 Hola, soy Yamid Ortega (Ymid).
-- 🧠 Me apasiona entender cómo funcionan las tecnologías "bajo el capó": el comportamiento de la JVM, la optimización de bases de datos y el diseño de protocolos de red.
-- ⚡ Enfocado en el desarrollo backend, diseño de microservicios, concurrencia y despliegues eficientes.
+- 👋 Hola, soy Yamid Ortega (Ymid), desarrollador backend desde Colombia.
+- ⚡ Construyo aplicaciones Java con Spring Boot, aprovechando funcionalidades como los virtual threads para manejar concurrencia y rendimiento de forma óptima. Complemento con persistencia mediante Hibernate y JPA, bases SQL (MySQL, PostgreSQL) y NoSQL (Redis, RocksDB), y arquitecturas tanto monolíticas como de microservicios.
+- 🧠 Me gusta entender cómo funcionan las cosas por dentro y buscar formas de hacerlas más eficientes. Por eso me interesan la concurrencia, la automatización de procesos y los sistemas de baja latencia.
+- 🌱 Aunque me gradué como Ingeniero Ambiental, encontré en el desarrollo de software un campo que realmente me apasiona, y desde entonces dedico gran parte de mi tiempo a aprender, construir proyectos y mejorar como desarrollador backend.
 - ☕ Más allá del código, me interesa la ciencia ficción, montar en bicicleta y practicar inglés.
 
 ---
@@ -54,7 +55,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📈 TitaniumBOE-Sim</h3>
       <p align="justify">
-        Simulador del protocolo binario BOE (Binary Order Entry) de Cboe para exchanges de opciones en EE.UU. Procesa mensajes estructurados en bytes a nivel de red con arquitectura de hilos virtuales, motor de emparejamiento FIFO y bots de trading internos.
+        Simulador del protocolo binario BOE de Cboe con matching engine, bots de trading, REST API, WebSocket y dashboard — todo en un único JAR deployable. Cada conexión TCP corre en su propio Virtual Thread de Java 21: más de 500 sesiones concurrentes con latencia P99 por debajo de 5 ms.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -70,7 +71,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🏥 Clínica — Gestión Hospitalaria</h3>
       <p align="justify">
-        Ecosistema modular de microservicios independientes para la administración de pacientes, citas médicas, admisiones y facturación. Cuenta con descubrimiento dinámico de servicios, autenticación asimétrica centralizada y asistencia con IA.
+        Sistema de microservicios para gestionar una clínica de salud — pacientes, citas, admisiones y facturación, con migraciones automáticas y asistente médico con IA. Descubrimiento dinámico vía Eureka y JWT firmado con RSA-256: cada servicio valida con la clave pública, sin compartir secretos.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -86,9 +87,9 @@
   <tr>
     <!-- PROYECTO 3: CRUD-Test -->
     <td width="50%" valign="top">
-      <h3 align="center">🔐 CRUD-Test — API de Usuarios</h3>
+      <h3 align="center">🔐 CRUD-Test — API de Usuarios con JWT</h3>
       <p align="justify">
-        API REST enfocada en un flujo de registro no binario en dos fases (PENDING → ACTIVE). Implementa seguridad stateless mediante tokens JWT diferenciados y de un solo uso para evitar ataques de replicación, respaldado por pruebas de integración.
+        API REST de usuarios con registro en dos fases y autenticación JWT stateless, donde el usuario transita de PENDING a ACTIVE. El token parcial vive 15 minutos, se invalida al consumirse y previene replay attacks en el flujo de activación; respaldado por pruebas de integración.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -102,9 +103,9 @@
     </td>
     <!-- PROYECTO 4: Awaken -->
     <td width="50%" valign="top">
-      <h3 align="center">📱 Awaken — WoL Controller</h3>
+      <h3 align="center">📱 Awaken — Wake-on-LAN Controller</h3>
       <p align="justify">
-        Aplicación Android nativa desarrollada para centralizar la administración remota de infraestructura local. Permite el encendido por Magic Packet (WOL), apagado mediante comandos ejecutados por SSH y monitorización de estado con pings ICMP en segundo plano.
+        App Android nativa para despertar y apagar equipos en la red — Magic Packet (WOL), apagado remoto por SSH y monitoreo con ping ICMP en segundo plano. Se integra con el sistema mediante Quick Settings Tiles, widget de inicio y notificaciones push de cambio de estado.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -141,7 +142,7 @@
 ---
 
 ### ¿Hablamos?
-- 💼 **Disponibilidad:** Abierto a propuestas de desarrollo backend (Remoto / Híbrido).
+- 💼 **Disponibilidad:** Abierto a proyectos freelance, consultas técnicas o simplemente charlar sobre tecnología.
 - 🌐 **Sitio Web:** [ymid.me](https://www.ymid.me/)
 - 📨 **Contacto:** [yortegap7920@proton.me](mailto:yortegap7920@proton.me)
 - 🔗 **LinkedIn:** [linkedin.com/in/ymidortega](https://www.linkedin.com/in/ymidortega/)
