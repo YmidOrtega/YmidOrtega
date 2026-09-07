@@ -25,11 +25,10 @@
 ---
 
 ### Sobre mí
-- 👋 Hola, soy Yamid Ortega (Ymid), desarrollador backend desde Colombia.
-- ⚡ Construyo aplicaciones Java con Spring Boot, aprovechando funcionalidades como los virtual threads para manejar concurrencia y rendimiento de forma óptima. Complemento con persistencia mediante Hibernate y JPA, bases SQL (MySQL, PostgreSQL) y NoSQL (Redis, RocksDB), y arquitecturas tanto monolíticas como de microservicios.
-- 🧠 Me gusta entender cómo funcionan las cosas por dentro y buscar formas de hacerlas más eficientes. Por eso me interesan la concurrencia, la automatización de procesos y los sistemas de baja latencia.
-- 🌱 Aunque me gradué como Ingeniero Ambiental, encontré en el desarrollo de software un campo que realmente me apasiona, y desde entonces dedico gran parte de mi tiempo a aprender, construir proyectos y mejorar como desarrollador backend.
-- ☕ Más allá del código, me interesa la ciencia ficción, montar en bicicleta y practicar inglés.
+- 👋 Desarrollador backend desde Colombia. Construyo aplicaciones Java con Spring Boot, virtual threads y bases SQL y NoSQL.
+- 🧠 Me gusta entender cómo funcionan las cosas por dentro y hacerlas más eficientes: concurrencia, automatización y sistemas de baja latencia.
+- 🌱 Llegué al software desde la Ingeniería Ambiental, y desde entonces no he parado de aprender y construir.
+- ☕ Fuera del código: ciencia ficción, bicicleta e inglés.
 
 ---
 
