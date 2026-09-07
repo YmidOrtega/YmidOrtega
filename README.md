@@ -1,6 +1,10 @@
-<!-- Profile Banner -->
+<!-- Profile Banner: firma animada (se adapta al tema claro/oscuro de GitHub) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=8B0000,000000&text=Ymid&fontSize=70&fontAlign=50&fontAlignY=40&desc=Java%20Developer%20%7C%20Microservices%20%7C%20Backend&descSize=20&descAlign=50&descAlignY=65" alt="header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/main/assets/ymid-signature-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/main/assets/ymid-signature-light.gif" />
+    <img src="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/main/assets/ymid-signature-light.gif" alt="Ymid — It's me" width="480" />
+  </picture>
 </p>
 
 <!-- Typing Intro -->
