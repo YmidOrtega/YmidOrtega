@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://www.ymid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ymid.me-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yortegap7920@gmail.com"><img src="https://img.shields.io/badge/Email-yortegap7920%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yortegap7920@proton.me"><img src="https://img.shields.io/badge/Email-yortegap7920%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=10b981" alt="views"/>
 </p>
 
@@ -143,5 +143,5 @@
 ### ¿Hablamos?
 - 💼 **Disponibilidad:** Abierto a propuestas de desarrollo backend (Remoto / Híbrido).
 - 🌐 **Sitio Web:** [ymid.me](https://www.ymid.me/)
-- 📨 **Contacto:** [yortegap7920@gmail.com](mailto:yortegap7920@gmail.com)
+- 📨 **Contacto:** [yortegap7920@proton.me](mailto:yortegap7920@proton.me)
 - 🔗 **LinkedIn:** [linkedin.com/in/ymidortega](https://www.linkedin.com/in/ymidortega/)
