@@ -74,15 +74,15 @@
     </td>
     <!-- PROYECTO 2: Clínica -->
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Clínica — Gestión Hospitalaria</h3>
+      <h3 align="center">🏥 Clínica — Gestión para una IPS</h3>
       <p align="justify">
-        Sistema de microservicios para gestionar una clínica de salud — pacientes, citas, admisiones y facturación, con migraciones automáticas y asistente médico con IA. Descubrimiento dinámico vía Eureka y JWT firmado con RSA-256: cada servicio valida con la clave pública, sin compartir secretos.
+        Plataforma de microservicios para una IPS colombiana — pacientes, historia clínica, contratación, admisiones y facturación electrónica DIAN con RIPS, más un asistente con IA local que revisa las facturas emitidas. Los eventos viajan por Kafka con outbox de Debezium, y los tokens ES256 se firman en OpenBao y se intercambian por servicio, sin compartir secretos.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenBao-000000?style=flat-square"/>
       </p>
       <div align="center">
         <a href="https://github.com/YmidOrtega/Clinica"><b>📂 Ver repositorio »</b></a>

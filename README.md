@@ -74,15 +74,15 @@
     </td>
     <!-- PROJECT 2: Clínica -->
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Clínica — Hospital Management System</h3>
+      <h3 align="center">🏥 Clínica — Healthcare Provider Platform</h3>
       <p align="justify">
-        Microservices system for managing a health clinic — patients, appointments, admissions and billing, with automatic migrations and an AI medical assistant. Dynamic discovery through Eureka and RSA-256 signed JWT: each service validates with the public key, without sharing secrets.
+        Microservices platform for a Colombian healthcare provider — patients, clinical records, contracting, admissions and billing with DIAN e-invoicing and RIPS, plus an assistant on a local LLM that reviews issued invoices. Events flow through Kafka with a Debezium outbox, and ES256 tokens are signed in OpenBao and exchanged per service, with no shared secrets.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenBao-000000?style=flat-square"/>
       </p>
       <div align="center">
         <a href="https://github.com/YmidOrtega/Clinica"><b>📂 View repository »</b></a>
