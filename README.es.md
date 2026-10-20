@@ -34,7 +34,7 @@
 ### Sobre mí
 - 👋 Desarrollador backend desde Colombia. Construyo aplicaciones Java con Spring Boot, virtual threads y bases SQL y NoSQL.
 - 🧠 Me gusta entender cómo funcionan las cosas por dentro y hacerlas más eficientes: concurrencia, automatización y sistemas de baja latencia.
-- 🌱 Llegué al software desde la Ingeniería Ambiental, y desde entonces no he parado de aprender y construir.
+- 🌱 Soy ingeniero ambiental de la Universidad EAN. De la ingeniería me llevé que un problema tiene muchas soluciones; de la EAN, a elegir la que se sostiene en el tiempo.
 - ☕ Fuera del código: ciencia ficción, bicicleta e inglés.
 
 ---

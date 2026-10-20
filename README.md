@@ -34,7 +34,7 @@
 ### About me
 - 👋 Backend developer from Colombia. I build Java applications with Spring Boot, virtual threads and SQL/NoSQL databases.
 - 🧠 I enjoy understanding how things work under the hood and finding ways to make them more efficient: concurrency, automation and low-latency systems.
-- 🌱 I came to software from Environmental Engineering, and haven't stopped learning and building since.
+- 🌱 I'm an environmental engineer from Universidad EAN. Engineering taught me that a problem has many solutions; EAN taught me to choose the one that lasts.
 - ☕ Outside the code: science fiction, cycling and languages.
 
 ---
