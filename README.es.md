@@ -14,17 +14,19 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=Componentes+que+cooperan.+Sistemas+que+cobran+vida.;Dise%C3%B1o+y+construyo+sistemas+backend+y+APIs+escalables." alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/tagline-es-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/tagline-es.svg" />
+    <img src="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/tagline-es.svg" alt="Componentes que cooperan. Sistemas que cobran vida. Diseño y construyo sistemas backend y APIs escalables." />
+  </picture>
 </p>
 
 <!-- Badges y Enlaces -->
 <p align="center">
-  <a href="https://www.ymid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ymid.me-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yortegap7920@proton.me"><img src="https://img.shields.io/badge/Email-yortegap7920%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=10b981" alt="views"/>
+  <a href="https://www.ymid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ymid.me-800020?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-800020?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yortegap7920@proton.me"><img src="https://img.shields.io/badge/Email-yortegap7920%40proton.me-800020?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=800020" alt="views"/>
 </p>
 
 ---
@@ -130,7 +132,11 @@
 ### Métricas & Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YmidOrtega&show_icons=true&theme=radical" alt="YmidOrtega's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/stats-es-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/stats-es.svg" />
+    <img src="https://raw.githubusercontent.com/YmidOrtega/YmidOrtega/output/stats-es.svg" alt="Actividad de YmidOrtega en los últimos 12 meses" />
+  </picture>
 </div>
 
 ---
