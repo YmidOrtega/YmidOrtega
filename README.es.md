@@ -26,7 +26,6 @@
   <a href="https://www.ymid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ymid.me-800020?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ymidortega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ymid%20Ortega-800020?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yortegap7920@proton.me"><img src="https://img.shields.io/badge/Email-yortegap7920%40proton.me-800020?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YmidOrtega&style=for-the-badge&color=800020" alt="views"/>
 </p>
 
 ---
@@ -39,21 +38,6 @@
 
 ---
 
-### Toolbox
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RocksDB-FF6C37?style=for-the-badge&logo=rocksdb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
 ### Proyectos destacados
 
 <table>
@@ -62,7 +46,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📈 TitaniumBOE-Sim</h3>
       <p align="justify">
-        Simulador del protocolo binario BOE de Cboe con matching engine, bots de trading, REST API, WebSocket y dashboard — todo en un único JAR deployable. Cada conexión TCP corre en su propio Virtual Thread de Java 21: más de 500 sesiones concurrentes con latencia P99 por debajo de 5 ms.
+        El protocolo binario de órdenes BOE de Cboe, byte a byte (especificación v2.11.90), sobre un matching engine con prioridad precio-tiempo, bots de trading, una REST API y un feed WebSocket — en un solo JAR. Cada sesión TCP corre en su propio virtual thread de Java 21: 500 sesiones concurrentes y un P99 de 2,5–4,1 ms en el ack de órdenes, medido.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -92,20 +76,20 @@
     </td>
   </tr>
   <tr>
-    <!-- PROYECTO 3: CRUD-Test -->
+    <!-- PROYECTO 3: Rutea -->
     <td width="50%" valign="top">
-      <h3 align="center">🔐 CRUD-Test — API de Usuarios con JWT</h3>
+      <h3 align="center">🚛 Rutea — Rutas de recolección</h3>
       <p align="justify">
-        API REST de usuarios con registro en dos fases y autenticación JWT stateless, donde el usuario transita de PENDING a ACTIVE. El token parcial vive 15 minutos, se invalida al consumirse y previene replay attacks en el flujo de activación; respaldado por pruebas de integración.
+        Planifica microrrutas de recolección de residuos para Bogotá (piloto: Suba) sobre un solver CVRP propio, un ALNS escrito en Java 21. En las 43 instancias X de CVRPLIB de hasta 297 clientes, con 60 s cada una, queda en promedio a 0,35 % de las mejores soluciones conocidas; Timefold, en la misma máquina y con el mismo tiempo, queda a 2,01 %.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square&logo=flyway&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white"/>
       </p>
       <div align="center">
-        <a href="https://github.com/YmidOrtega/CRUD-Test"><b>📂 Ver repositorio »</b></a>
+        <a href="https://github.com/YmidOrtega/Rutea"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
     <!-- PROYECTO 4: Awaken -->
