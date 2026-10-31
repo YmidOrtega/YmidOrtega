@@ -92,9 +92,9 @@
         <a href="https://github.com/YmidOrtega/Rutea"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
-    <!-- PROYECTO 4: Awaken -->
+    <!-- PROYECTO 4: Janus -->
     <td width="50%" valign="top">
-      <h3 align="center">📱 Awaken — Wake-on-LAN Controller</h3>
+      <h3 align="center">📱 Janus — Wake-on-LAN Controller</h3>
       <p align="justify">
         App Android nativa para despertar y apagar equipos en la red — Magic Packet (WOL), apagado remoto por SSH y monitoreo con ping ICMP en segundo plano. Se integra con el sistema mediante Quick Settings Tiles, widget de inicio y notificaciones push de cambio de estado.
       </p>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <div align="center">
-        <a href="https://github.com/YmidOrtega/Awaken-WoL"><b>📂 Ver repositorio »</b></a>
+        <a href="https://github.com/YmidOrtega/Janus"><b>📂 Ver repositorio »</b></a>
       </div>
     </td>
   </tr>

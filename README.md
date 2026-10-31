@@ -92,9 +92,9 @@
         <a href="https://github.com/YmidOrtega/Rutea"><b>📂 View repository »</b></a>
       </div>
     </td>
-    <!-- PROJECT 4: Awaken -->
+    <!-- PROJECT 4: Janus -->
     <td width="50%" valign="top">
-      <h3 align="center">📱 Awaken — Wake-on-LAN Controller</h3>
+      <h3 align="center">📱 Janus — Wake-on-LAN Controller</h3>
       <p align="justify">
         Native Android app to wake and shut down devices on the network — Magic Packet (WOL), remote shutdown via SSH and background ICMP ping monitoring. Integrates with the system through Quick Settings Tiles, a home screen widget and push notifications on status change.
       </p>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <div align="center">
-        <a href="https://github.com/YmidOrtega/Awaken-WoL"><b>📂 View repository »</b></a>
+        <a href="https://github.com/YmidOrtega/Janus"><b>📂 View repository »</b></a>
       </div>
     </td>
   </tr>
