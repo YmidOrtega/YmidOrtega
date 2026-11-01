@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="72" viewBox="0 0 760 72" role="img" aria-label="Components that cooperate. Systems that come alive. I design and build scalable backend systems and APIs">
+<style>
+.s0{font:600 20px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#e6edf3}
+.s1{font:15px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e}
+@keyframes t0{0%,0.00%{transform:scaleX(0);animation-timing-function:steps(51,end)}21.50%,100%{transform:scaleX(1)}}@keyframes m0{0%,0.00%{transform:translateX(0);animation-timing-function:steps(51,end)}21.50%,100%{transform:translateX(612px)}}@keyframes v0{0%,0.00%{visibility:hidden}0.01%,27.05%{visibility:visible}27.06%,100%{visibility:hidden}}.r0{transform-box:fill-box;transform-origin:left;animation:t0 9014ms linear infinite}.c0{animation:m0 9014ms linear infinite}.c0 rect{animation:v0 9014ms linear infinite}@keyframes t1{0%,27.05%{transform:scaleX(0);animation-timing-function:steps(52,end)}48.97%,100%{transform:scaleX(1)}}@keyframes m1{0%,27.05%{transform:translateX(0);animation-timing-function:steps(52,end)}48.97%,100%{transform:translateX(468px)}}@keyframes v1{0%,27.05%{visibility:hidden}27.06%,100.00%{visibility:visible}100.01%,100%{visibility:hidden}}.r1{transform-box:fill-box;transform-origin:left;animation:t1 9014ms linear infinite}.c1{animation:m1 9014ms linear infinite}.c1 rect{animation:v1 9014ms linear infinite}
+.all{animation:fade 9014ms linear infinite}
+@keyframes fade{0%,93.34%{opacity:1}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.all,.all *{animation:none!important}.all g{display:none}}
+</style>
+<g class="all"><clipPath id="k0"><rect class="r0" x="74" y="8" width="612" height="28"/></clipPath><text class="s0" x="74" y="28" textLength="612" lengthAdjust="spacingAndGlyphs" clip-path="url(#k0)">Components that cooperate. Systems that come alive.</text><g class="c0"><rect x="75" y="10" width="2" height="22" fill="#ff4d6d"/></g><clipPath id="k1"><rect class="r1" x="146" y="43" width="468" height="23"/></clipPath><text class="s1" x="146" y="58" textLength="468" lengthAdjust="spacingAndGlyphs" clip-path="url(#k1)">I design and build scalable backend systems and APIs</text><g class="c1"><rect x="147" y="45" width="2" height="17" fill="#ff4d6d"/></g></g>
+</svg>
