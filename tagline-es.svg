@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="72" viewBox="0 0 760 72" role="img" aria-label="Componentes que cooperan. Sistemas que cobran vida. Diseño y construyo sistemas backend y APIs escalables.">
+<style>
+.s0{font:600 20px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328}
+.s1{font:15px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#57606a}
+@keyframes t0{0%,0.00%{transform:scaleX(0);animation-timing-function:steps(51,end)}21.32%,100%{transform:scaleX(1)}}@keyframes m0{0%,0.00%{transform:translateX(0);animation-timing-function:steps(51,end)}21.32%,100%{transform:translateX(612px)}}@keyframes v0{0%,0.00%{visibility:hidden}0.01%,26.82%{visibility:visible}26.83%,100%{visibility:hidden}}.r0{transform-box:fill-box;transform-origin:left;animation:t0 9090ms linear infinite}.c0{animation:m0 9090ms linear infinite}.c0 rect{animation:v0 9090ms linear infinite}@keyframes t1{0%,26.82%{transform:scaleX(0);animation-timing-function:steps(54,end)}49.39%,100%{transform:scaleX(1)}}@keyframes m1{0%,26.82%{transform:translateX(0);animation-timing-function:steps(54,end)}49.39%,100%{transform:translateX(486px)}}@keyframes v1{0%,26.82%{visibility:hidden}26.83%,100.00%{visibility:visible}100.01%,100%{visibility:hidden}}.r1{transform-box:fill-box;transform-origin:left;animation:t1 9090ms linear infinite}.c1{animation:m1 9090ms linear infinite}.c1 rect{animation:v1 9090ms linear infinite}
+.all{animation:fade 9090ms linear infinite}
+@keyframes fade{0%,93.40%{opacity:1}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.all,.all *{animation:none!important}.all g{display:none}}
+</style>
+<g class="all"><clipPath id="k0"><rect class="r0" x="74" y="8" width="612" height="28"/></clipPath><text class="s0" x="74" y="28" textLength="612" lengthAdjust="spacingAndGlyphs" clip-path="url(#k0)">Componentes que cooperan. Sistemas que cobran vida.</text><g class="c0"><rect x="75" y="10" width="2" height="22" fill="#800020"/></g><clipPath id="k1"><rect class="r1" x="137" y="43" width="486" height="23"/></clipPath><text class="s1" x="137" y="58" textLength="486" lengthAdjust="spacingAndGlyphs" clip-path="url(#k1)">Diseño y construyo sistemas backend y APIs escalables.</text><g class="c1"><rect x="138" y="45" width="2" height="17" fill="#800020"/></g></g>
+</svg>
